@@ -7,6 +7,7 @@
 
 # Descripción
 aquí se encuentra el desarrollo del parcial 1 del curso sistemas operativos, en donde realiza la instalación y el uso de la máquina virtual debian 9
+# punto 3
 ### validación
 1. descargar la iso de debian 
 2. buscar el checksum que pertenece a la iso en el enlace http://cdimage.debian.org/debian-cd/current/amd64/iso-cd/MD5SUMS
@@ -14,7 +15,7 @@ aquí se encuentra el desarrollo del parcial 1 del curso sistemas operativos, en
 4. seleccionar la iso y copiar el checksum para ver la compatibilidad con el calculado por el MD5.
 
 ![][1]
-
+# punto 8
 # Centos vs Debian
 ## tabla de uso de las diferentes distribuciones de linux
 
@@ -34,6 +35,7 @@ aquí se encuentra el desarrollo del parcial 1 del curso sistemas operativos, en
 9. para actualizaciones grandes debian funciona perfectamente en cambio en centos hay que instalar desde cero.
 10. si desea aplicaciones con propiedad, como Google Chrome, Steam o Discord, todas tienen paquetes para Debian, mientras que no son compatibles con CentOS, y sería difícil hacer que funcionen.
 
+# punto 4
 # instalación
 1. crear una nueva partición en virtualbox, con sus respectivos parámetros , tamaño de disco nombre etc
 2. iniciar la máquina y escoger la ruta para el arranque del sistema.
@@ -50,7 +52,26 @@ aquí se encuentra el desarrollo del parcial 1 del curso sistemas operativos, en
 13. gestor de paquetes colombia-debian.uniminuto.edu
 14. esperar instalación
 15. luego de 1 hora y media la máquina ha sido instalada
+### Información del sistema operativo
 
+
+```
+root@debian:/home/edisson# uname
+Linux
+```
+```
+root@debian:/home/edisson# uname -a
+Linux debian 4.9.0-6-amd64 #1 SMP Debian 4.9.82-1+deb9u3 (2018-03-02) x86_64 GNU/Linux
+```
+```
+root@debian:/home/edisson# uname -o
+GNU/Linux
+```
+```
+root@debian:/home/edisson# uname-m
+x86_64
+```
+# punto 8
 # importar y exportar máquina virtual
 ## exportar
 1. ir a la opción archivo y seleccionar exportar servicio virtualizado
@@ -69,3 +90,8 @@ aquí se encuentra el desarrollo del parcial 1 del curso sistemas operativos, en
 [1]:images/checksum.PNG
 [2]:images/comparativa.PNG
 [3]:images/usos.PNG
+#[4]:images/1.PNG
+#[5]:images/2.PNG
+#[6]:images/3.PNG
+#[7]:images/4.PNG
+#[8]:images/5.PNG
