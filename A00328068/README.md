@@ -51,6 +51,20 @@ aquí se encuentra el desarrollo del parcial 1 del curso sistemas operativos, en
 14. esperar instalación
 15. luego de 1 hora y media la máquina ha sido instalada
 
+# importar y exportar máquina virtual
+## exportar
+1. ir a la opción archivo y seleccionar exportar servicio virtualizado
+2. cambiar el formato a ovf para que al importar la máquina no nos salga error o buscar la ruta en la que se guardará y cambiamos el formato a ovf
+3. damos exportar
+4. allí se demora según sea el peso de la máquina
+5. una vez terminado los archivos que quedan son uno .ovf y otro vmdk
+## importar
+1. vamos a la opción a archivo y damos en importar servicio virtualizado
+2. buscamos la ruta y escogemos el archivo ovf
+3. damos importar, esta es mas rapida
+
+
+
 
 [1]:images/checksum.PNG
 [2]:images/comparativa.PNG
