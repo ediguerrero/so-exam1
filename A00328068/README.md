@@ -79,6 +79,13 @@ x86_64
 3. damos exportar
 4. allí se demora según sea el peso de la máquina
 5. una vez terminado los archivos que quedan son uno .ovf y otro vmdk
+
+![][4]
+![][5]
+![][6]
+![][7]
+![][8]
+
 ## importar
 1. vamos a la opción a archivo y damos en importar servicio virtualizado
 2. buscamos la ruta y escogemos el archivo ovf
@@ -87,11 +94,12 @@ x86_64
 
 
 
+
 [1]:images/checksum.PNG
 [2]:images/comparativa.PNG
 [3]:images/usos.PNG
-#[4]:images/1.PNG
-#[5]:images/2.PNG
-#[6]:images/3.PNG
-#[7]:images/4.PNG
-#[8]:images/5.PNG
+[4]:images/1.PNG
+[5]:images/2.PNG
+[6]:images/3.PNG
+[7]:images/4.PNG
+[8]:images/5.PNG
