@@ -34,6 +34,24 @@ aquí se encuentra el desarrollo del parcial 1 del curso sistemas operativos, en
 9. para actualizaciones grandes debian funciona perfectamente en cambio en centos hay que instalar desde cero.
 10. si desea aplicaciones con propiedad, como Google Chrome, Steam o Discord, todas tienen paquetes para Debian, mientras que no son compatibles con CentOS, y sería difícil hacer que funcionen.
 
+# instalación
+1. crear una nueva partición en virtualbox, con sus respectivos parámetros , tamaño de disco nombre etc
+2. iniciar la máquina y escoger la ruta para el arranque del sistema.
+3. instalar debian en la opción  graphical install
+4. escoger idioma y continuar
+5. nombre de la máquina y continuar
+6. nombre de dominio (root) y continuar
+7. contraseña de superusuario y continuar 
+8. nombre para el nuevo usuario(edisson) y continuar
+9. nombre para la cuenta (edisson)y continuar
+10. clave para el usuario  y continuar
+11. hacer el particionado en este caso automatico y continuar
+12. desea inicializar con otro cd? no
+13. gestor de paquetes colombia-debian.uniminuto.edu
+14. esperar instalación
+15. luego de 1 hora y media la máquina ha sido instalada
+
+
 [1]:images/checksum.PNG
 [2]:images/comparativa.PNG
 [3]:images/usos.PNG
