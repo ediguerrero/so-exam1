@@ -71,6 +71,8 @@ GNU/Linux
 root@debian:/home/edisson# uname-m
 x86_64
 ```
+![][14]
+
 # punto 7
 # importar y exportar máquina virtual
 ## exportar
@@ -113,3 +115,4 @@ x86_64
 [11]:images/i3.PNG
 [12]:images/i4.PNG
 [13]:images/i5.PNG
+[14]:images/carac.PNG
