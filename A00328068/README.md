@@ -71,7 +71,7 @@ GNU/Linux
 root@debian:/home/edisson# uname-m
 x86_64
 ```
-# punto 8
+# punto 7
 # importar y exportar máquina virtual
 ## exportar
 1. ir a la opción archivo y seleccionar exportar servicio virtualizado
