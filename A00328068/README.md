@@ -15,4 +15,25 @@ aquí se encuentra el desarrollo del parcial 1 del curso sistemas operativos, en
 
 ![][1]
 
+# Centos vs Debian
+## tabla de uso de las diferentes distribuciones de linux
+
+![][2]
+
+## tabla comparativa
+![][3]
+
+1. si tenemos un servidor nuevo sea la marca que sea es muy probable que con debian requiere la compilación de forma externa de los controladores, haciendo tediosa la instalación, mientras que con centos se pueden instalar sin ningún problema en los servidores físicos.
+2. debian tiene soporte para gran cantidad de plataformas o arquitecturas.
+3. las personas usan mas debian como se ve en la tabla de uso, esto debido a las diferentes plataformas en las que corre.
+4. ambas distribuciones tienen interfaz gráfica
+5. centos esta enfocado mas a la seguridad informática que debian, centos ya vienen con un paquete instalado llamado sec linux, en debian hay que instalarlo.
+6. debian es mas usado para máquinas virtuales y centos para servidores físicos.
+7. el apt-get esta mucho mas optimizado que el yum
+8. debian tiene menor uso de disco duro que centos ya que no instala paquetes sin uso.
+9. para actualizaciones grandes debian funciona perfectamente en cambio en centos hay que instalar desde cero.
+10. si desea aplicaciones con propiedad, como Google Chrome, Steam o Discord, todas tienen paquetes para Debian, mientras que no son compatibles con CentOS, y sería difícil hacer que funcionen.
+
 [1]:images/checksum.PNG
+[2]:images/comparativa.PNG
+[3]:images/usos.PNG
