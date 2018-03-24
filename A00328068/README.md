@@ -91,6 +91,11 @@ x86_64
 2. buscamos la ruta y escogemos el archivo ovf
 3. damos importar, esta es mas rapida
 
+![][9]
+![][10]
+![][11]
+![][12]
+![][13]
 
 
 
@@ -103,3 +108,8 @@ x86_64
 [6]:images/3.PNG
 [7]:images/4.PNG
 [8]:images/5.PNG
+[9]:images/i1.PNG
+[10]:images/i2.PNG
+[11]:images/i3.PNG
+[12]:images/i4.PNG
+[13]:images/i5.PNG
