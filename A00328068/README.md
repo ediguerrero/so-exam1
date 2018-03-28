@@ -15,6 +15,20 @@ aquí se encuentra el desarrollo del parcial 1 del curso sistemas operativos, en
 4. seleccionar la iso y copiar el checksum para ver la compatibilidad con el calculado por el MD5.
 
 ![][1]
+
+# punto 5
+1. descargar putty de 64 bits
+![][e1]
+
+2. utilizar el comando ip a para saber el nombre de host
+![][e2]
+
+3. correr putty,colocar la ip obtenida,el protocolo y el puerto
+![][e3]
+
+4. loguearse con el nombre de usuario escogido en debian y el password, luego loguearse como root y alli la conexion ya esta completa
+![][e4]
+
 # punto 8
 # Centos vs Debian
 ## tabla de uso de las diferentes distribuciones de linux
