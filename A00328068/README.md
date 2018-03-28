@@ -17,17 +17,22 @@ aquí se encuentra el desarrollo del parcial 1 del curso sistemas operativos, en
 ![][1]
 
 # punto 5
+
 1. descargar putty de 64 bits
-![][e1]
+
+![][15]
 
 2. utilizar el comando ip a para saber el nombre de host
-![][e2]
+
+![][16]
 
 3. correr putty,colocar la ip obtenida,el protocolo y el puerto
-![][e3]
+
+![][17]
 
 4. loguearse con el nombre de usuario escogido en debian y el password, luego loguearse como root y alli la conexion ya esta completa
-![][e4]
+
+![][18]
 
 # punto 8
 # Centos vs Debian
@@ -130,3 +135,7 @@ x86_64
 [12]:images/i4.PNG
 [13]:images/i5.PNG
 [14]:images/carac.PNG
+[15]:images/e1.PNG
+[16]:images/e2.PNG
+[17]:images/e3.PNG
+[18]:images/e4.PNG
