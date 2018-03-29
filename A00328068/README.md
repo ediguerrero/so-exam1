@@ -147,7 +147,9 @@ x86_64
 10. si desea aplicaciones con propiedad, como Google Chrome, Steam o Discord, todas tienen paquetes para Debian, mientras que no son compatibles con CentOS, y sería difícil hacer que funcionen.
 
 
-
+# punto 9 
+## url del repositorio:
+### https://github.com/ediguerrero/so-exam1.git
 
 
 
