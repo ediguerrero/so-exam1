@@ -1,0 +1,85 @@
+    1  apt-get update
+    2  apt-upgrate
+    3  apt-get upgrate
+    4  apt-get install git-core
+    5  apt-get install tig
+    6  git clone http://github.com/ediguerrero/so-exam1.git
+    7  ls
+    8  cd so-exam1/
+    9  tig
+   10  ls
+   11  rm so-exam1/
+   12  rm -rf so-exam1/
+   13  ls
+   14  git clone https://github.com/ediguerrero/so-exam1.git
+   15  git clone https://github.com/ediguerrero/so-exam1.git
+   16  ls
+   17  cd so-exam1/
+   18  git branch
+   19  cd ..
+   20  history > comandos_list.txt
+   21  ls
+   22  cat comandos_list.txt 
+   23  ls
+   24  cd so-exam1/
+   25  git branch -a
+   26  cd ..
+   27  ls
+   28  ls
+   29  rm -rf so-exam1/
+   30  ls
+   31  git clone https://github.com/ediguerrero/so-exam1.git
+   32  ls
+   33  cd so-exam1/
+   34  ls
+   35  git branch -a
+   36  git checkuot ediguerrero/so-exam1
+   37  git checkout ediguerrero/so-exam1
+   38  git branch -a
+   39  ls
+   40  tig
+   41  uname a
+   42  uname -a
+   43  uname -o
+   44  uname -m
+   45  history > comand_list.txt
+   46  ls
+   47  cat comandos_list.txt 
+   48  cat comand_list.txt
+   49  ls
+   50  mv comand_list.txt A00328068/
+   51  ls
+   52  cd A00328068/
+   53  ls
+   54  cd ..
+   55  ls
+   56  git checkout master
+   57  git branCH -a
+   58  git branch -a
+   59  ls
+   60  cd ..
+   61  ls
+   62  rm comandos_list.txt 
+   63  ls
+   64  cd so-exam1/
+   65  ls
+   66  git branch -a
+   67  git checkout ediguerrero/so-exam1
+   68  ls
+   69  cd A00328068/
+   70  ls
+   71  cd ..
+   72  git checkout master
+   73  ls
+   74  cd A00328068/
+   75  LS
+   76  ls
+   77  cd ..
+   78  ls
+   79  rm -rf A00328068/
+   80  ls
+   81  git checkout ediguerrero/so-exam1
+   82  ls
+   83  cd A00328068/
+   84  ls
+   85  history > comand_list.txt
