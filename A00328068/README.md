@@ -7,6 +7,7 @@
 
 # Descripción
 aquí se encuentra el desarrollo del parcial 1 del curso sistemas operativos, en donde realiza la instalación y el uso de la máquina virtual debian 9
+
 # punto 3
 ### validación
 1. descargar la iso de debian 
@@ -15,44 +16,6 @@ aquí se encuentra el desarrollo del parcial 1 del curso sistemas operativos, en
 4. seleccionar la iso y copiar el checksum para ver la compatibilidad con el calculado por el MD5.
 
 ![][1]
-
-# punto 5
-
-1. descargar putty de 64 bits
-
-![][15]
-
-2. utilizar el comando ip a para saber el nombre de host
-
-![][16]
-
-3. correr putty,colocar la ip obtenida,el protocolo y el puerto
-
-![][17]
-
-4. loguearse con el nombre de usuario escogido en debian y el password, luego loguearse como root y alli la conexion ya esta completa
-
-![][18]
-
-# punto 8
-# Centos vs Debian
-## tabla de uso de las diferentes distribuciones de linux
-
-![][2]
-
-## tabla comparativa
-![][3]
-
-1. si tenemos un servidor nuevo sea la marca que sea es muy probable que con debian requiere la compilación de forma externa de los controladores, haciendo tediosa la instalación, mientras que con centos se pueden instalar sin ningún problema en los servidores físicos.
-2. debian tiene soporte para gran cantidad de plataformas o arquitecturas.
-3. las personas usan mas debian como se ve en la tabla de uso, esto debido a las diferentes plataformas en las que corre.
-4. ambas distribuciones tienen interfaz gráfica
-5. centos esta enfocado mas a la seguridad informática que debian, centos ya vienen con un paquete instalado llamado sec linux, en debian hay que instalarlo.
-6. debian es mas usado para máquinas virtuales y centos para servidores físicos.
-7. el apt-get esta mucho mas optimizado que el yum
-8. debian tiene menor uso de disco duro que centos ya que no instala paquetes sin uso.
-9. para actualizaciones grandes debian funciona perfectamente en cambio en centos hay que instalar desde cero.
-10. si desea aplicaciones con propiedad, como Google Chrome, Steam o Discord, todas tienen paquetes para Debian, mientras que no son compatibles con CentOS, y sería difícil hacer que funcionen.
 
 # punto 4
 # instalación
@@ -92,6 +55,49 @@ x86_64
 ```
 ![][14]
 
+# punto 5
+
+1. descargar putty de 64 bits
+
+![][15]
+
+2. utilizar el comando ip a para saber el nombre de host
+
+![][16]
+
+3. correr putty,colocar la ip obtenida,el protocolo y el puerto
+
+![][17]
+
+4. loguearse con el nombre de usuario escogido en debian y el password, luego loguearse como root y alli la conexion ya esta completa
+
+![][18]
+
+# punto 6
+### apt-get update
+
+![][19]
+
+![][20]
+
+### apt-get insatall git-core
+
+![][21]
+
+![][22]
+
+![][23]
+
+### apt-get install tig
+
+![][24]
+
+![][25]
+
+### tig: evidencia de todos los commits
+
+![][26]
+
 # punto 7
 # importar y exportar máquina virtual
 ## exportar
@@ -119,6 +125,31 @@ x86_64
 ![][13]
 
 
+###
+# punto 8
+# Centos vs Debian
+## tabla de uso de las diferentes distribuciones de linux
+
+![][2]
+
+## tabla comparativa
+![][3]
+
+1. si tenemos un servidor nuevo sea la marca que sea es muy probable que con debian requiere la compilación de forma externa de los controladores, haciendo tediosa la instalación, mientras que con centos se pueden instalar sin ningún problema en los servidores físicos.
+2. debian tiene soporte para gran cantidad de plataformas o arquitecturas.
+3. las personas usan mas debian como se ve en la tabla de uso, esto debido a las diferentes plataformas en las que corre.
+4. ambas distribuciones tienen interfaz gráfica
+5. centos esta enfocado mas a la seguridad informática que debian, centos ya vienen con un paquete instalado llamado sec linux, en debian hay que instalarlo.
+6. debian es mas usado para máquinas virtuales y centos para servidores físicos.
+7. el apt-get esta mucho mas optimizado que el yum
+8. debian tiene menor uso de disco duro que centos ya que no instala paquetes sin uso.
+9. para actualizaciones grandes debian funciona perfectamente en cambio en centos hay que instalar desde cero.
+10. si desea aplicaciones con propiedad, como Google Chrome, Steam o Discord, todas tienen paquetes para Debian, mientras que no son compatibles con CentOS, y sería difícil hacer que funcionen.
+
+
+
+
+
 
 
 [1]:images/checksum.PNG
@@ -139,3 +170,11 @@ x86_64
 [16]:images/e2.PNG
 [17]:images/e3.PNG
 [18]:images/e4.PNG
+[19]:images/A1.PNG
+[20]:images/A2.PNG
+[21]:images/A3.PNG
+[22]:images/A4.PNG
+[23]:images/A5.PNG
+[24]:images/A6.PNG
+[25]:images/A7.PNG
+[26]:images/A8.PNG
